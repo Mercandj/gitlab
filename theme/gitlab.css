@@ -732,3 +732,31 @@ a.label-item.is-focused, li.card.user-can-drag.is-active > h4 > a {
 .right-sidebar .title .lock-edit, .right-sidebar .title .edit-link {
     color: #F0F0F0;
 }
+
+body.ui_indigo .sidebar-top-level-items > li.active .badge {
+    color: #F0F0F0 !important;
+}
+
+.discussion-header a, .note-header-info a {
+    color: #F0F0F0 !important;
+}
+
+.diff-file .notes_holder td.notes_line {
+    background-color: #000 !important;
+}
+
+.btn.btn-success, .btn.btn-new, .btn.btn-create, .btn.comment-btn, .btn.btn-save {
+    background-color: #1aaa55 !important;
+    border-color: #168f48 !important;
+    color: #fff !important;
+}
+
+.toggle-sidebar-button, .close-nav-button {
+    background-color: #000 !important;
+    color: #A0A0A0 !important;
+}
+
+.toggle-sidebar-button:hover, .close-nav-button:hover {
+    background-color: #000 !important;
+    color: #A0A0A0 !important;
+}
